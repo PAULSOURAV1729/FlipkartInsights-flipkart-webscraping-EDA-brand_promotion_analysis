@@ -1,5 +1,5 @@
 # FlipkartInsights-flipkart-webscraping-EDA-brand_promotion_analysis
-##### I have scrapped this data from flipkart (https://www.flipkart.com).
+##### I have scrapped this data from flipkart (https://www.flipkart.com) using BeautifulSoup.
 ##### Here I have collected the data of smartphones of Apple, SAMSUNG and OnePlus that costs more than 20000 rupees.
 ##### This data contrains teh details about the smartphone that includes:
 ##### 'Product' : The smartphone name and details 
